@@ -1,0 +1,103 @@
+          ******************************************************
+          *         GAMESS VERSION =  1 MAY 2012 (R1)          *
+          *             FROM IOWA STATE UNIVERSITY             *
+          * M.W.SCHMIDT, K.K.BALDRIDGE, J.A.BOATZ, S.T.ELBERT, *
+          *   M.S.GORDON, J.H.JENSEN, S.KOSEKI, N.MATSUNAGA,   *
+          *          K.A.NGUYEN, S.J.SU, T.L.WINDUS,           *
+          *       TOGETHER WITH M.DUPUIS, J.A.MONTGOMERY       *
+          *         J.COMPUT.CHEM.  14, 1347-1363(1993)        *
+          **************** 64 BIT LINUX VERSION ****************
+
+
+     RUN TITLE
+     ---------
+ h2
+
+ THE POINT GROUP OF THE MOLECULE IS C1
+ THE ORDER OF THE PRINCIPAL AXIS IS     1
+
+ ATOM      ATOMIC                      COORDINATES (BOHR)
+           CHARGE         X                   Y                   Z
+H           1.0     0.000000000000       0.000000000000       0.700000000000
+H           1.0     0.000000000000       0.000000000000       -0.700000000000
+
+
+
+     ATOMIC BASIS SET
+     ----------------
+ THE CONTRACTED PRIMITIVE FUNCTIONS HAVE BEEN UNNORMALIZED
+ THE CONTRACTED BASIS FUNCTIONS ARE NOW NORMALIZED TO UNITY
+
+  SHELL TYPE  PRIMITIVE        EXPONENT          CONTRACTION COEFFICIENT(S)
+
+ H
+
+      1 S 1        18.7311370    0.033494600000
+      1 S 2         2.8253937    0.234726950000
+      1 S 3         0.6401217    0.813757330000
+
+      2 S 4         0.1612778    1.000000000000
+
+      3 P 5         1.1000000    1.000000000000
+
+H
+
+      4 S 6        18.7311370    0.033494600000
+      4 S 7         2.8253937    0.234726950000
+      4 S 8         0.6401217    0.813757330000
+
+      5 S 9         0.1612778    1.000000000000
+
+      6 P 10         1.1000000    1.000000000000
+
+
+ TOTAL NUMBER OF BASIS SET SHELLS             =    6
+ NUMBER OF CARTESIAN GAUSSIAN BASIS FUNCTIONS =    10
+ NUMBER OF ELECTRONS                          =   2
+ CHARGE OF MOLECULE                           =    0
+ SPIN MULTIPLICITY                            =    1
+ NUMBER OF OCCUPIED ORBITALS (ALPHA)          =    1
+ NUMBER OF OCCUPIED ORBITALS (BETA )          =    1
+ TOTAL NUMBER OF ATOMS                        =    2
+
+     ------------------------------------------
+     THE POINT GROUP IS C1 , NAXIS= 1, ORDER= 1
+     ------------------------------------------
+
+     DIMENSIONS OF THE SYMMETRY SUBSPACES ARE
+ A   =    10
+
+          ------------
+          EIGENVECTORS
+          ------------
+
+                            1         2         3         4         5
+                     -10.0000    -9.0000    -8.0000    -7.0000    -6.0000 
+                           A         A         A         A         A         
+    0  H   1  S       1.0000    0.0000    0.0000    0.0000    0.0000
+    1  H   1  S       0.0000    1.0000    0.0000    0.0000    0.0000
+    2  H   1  X       0.0000    0.0000    1.0000    0.0000    0.0000
+    3  H   1  Y       0.0000    0.0000    0.0000    1.0000    0.0000
+    4  H   1  Z       0.0000    0.0000    0.0000    0.0000    1.0000
+    5  H   2  S       0.0000    0.0000    0.0000    0.0000    0.0000
+    6  H   2  S       0.0000    0.0000    0.0000    0.0000    0.0000
+    7  H   2  X       0.0000    0.0000    0.0000    0.0000    0.0000
+    8  H   2  Y       0.0000    0.0000    0.0000    0.0000    0.0000
+    9  H   2  Z       0.0000    0.0000    0.0000    0.0000    0.0000
+
+                            6         7         8         9        10
+                      -5.0000    -4.0000    -3.0000    -2.0000    -1.0000 
+                           A         A         A         A         A         
+    0  H   1  S       0.0000    0.0000    0.0000    0.0000    0.0000
+    1  H   1  S       0.0000    0.0000    0.0000    0.0000    0.0000
+    2  H   1  X       0.0000    0.0000    0.0000    0.0000    0.0000
+    3  H   1  Y       0.0000    0.0000    0.0000    0.0000    0.0000
+    4  H   1  Z       0.0000    0.0000    0.0000    0.0000    0.0000
+    5  H   2  S       1.0000    0.0000    0.0000    0.0000    0.0000
+    6  H   2  S       0.0000    1.0000    0.0000    0.0000    0.0000
+    7  H   2  X       0.0000    0.0000    1.0000    0.0000    0.0000
+    8  H   2  Y       0.0000    0.0000    0.0000    1.0000    0.0000
+    9  H   2  Z       0.0000    0.0000    0.0000    0.0000    1.0000
+ ...... END OF RHF CALCULATION ......
+
+

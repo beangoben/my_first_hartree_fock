@@ -1,0 +1,53 @@
+          ******************************************************
+          *         GAMESS VERSION =  1 MAY 2012 (R1)          *
+          *             FROM IOWA STATE UNIVERSITY             *
+          * M.W.SCHMIDT, K.K.BALDRIDGE, J.A.BOATZ, S.T.ELBERT, *
+          *   M.S.GORDON, J.H.JENSEN, S.KOSEKI, N.MATSUNAGA,   *
+          *          K.A.NGUYEN, S.J.SU, T.L.WINDUS,           *
+          *       TOGETHER WITH M.DUPUIS, J.A.MONTGOMERY       *
+          *         J.COMPUT.CHEM.  14, 1347-1363(1993)        *
+          **************** 64 BIT LINUX VERSION ****************
+
+
+     RUN TITLE
+     ---------
+ {#Molname}
+
+ THE POINT GROUP OF THE MOLECULE IS C1
+ THE ORDER OF THE PRINCIPAL AXIS IS     1
+
+ ATOM      ATOMIC                      COORDINATES (BOHR)
+           CHARGE         X                   Y                   Z
+{#XYZ}
+
+
+     ATOMIC BASIS SET
+     ----------------
+ THE CONTRACTED PRIMITIVE FUNCTIONS HAVE BEEN UNNORMALIZED
+ THE CONTRACTED BASIS FUNCTIONS ARE NOW NORMALIZED TO UNITY
+
+  SHELL TYPE  PRIMITIVE        EXPONENT          CONTRACTION COEFFICIENT(S)
+
+ {#BasisInfo}
+ TOTAL NUMBER OF BASIS SET SHELLS             =    {#Nshells}
+ NUMBER OF CARTESIAN GAUSSIAN BASIS FUNCTIONS =    {#Nbfs}
+ NUMBER OF ELECTRONS                          =   {#Nelectrons}
+ CHARGE OF MOLECULE                           =    {#Charge}
+ SPIN MULTIPLICITY                            =    {#Multiplicity}
+ NUMBER OF OCCUPIED ORBITALS (ALPHA)          =    {#Nalpha}
+ NUMBER OF OCCUPIED ORBITALS (BETA )          =    {#Nbeta}
+ TOTAL NUMBER OF ATOMS                        =    {#Natoms}
+
+     ------------------------------------------
+     THE POINT GROUP IS C1 , NAXIS= 1, ORDER= 1
+     ------------------------------------------
+
+     DIMENSIONS OF THE SYMMETRY SUBSPACES ARE
+ A   =    {#Nbfs}
+
+          ------------
+          EIGENVECTORS
+          ------------
+
+{#Orbitals}
+
