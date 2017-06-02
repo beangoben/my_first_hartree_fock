@@ -33,4 +33,4 @@ This program uses:
 Visit http://mybinder.org/ and give it the path to this github repo.
 It will automatically then build all the software and provide you with a web address where you can compute and work,
 
-Careful, work is temporary so you might want to download your once in a while.
+Careful, work is temporary so you might want to download your file once in a while.
