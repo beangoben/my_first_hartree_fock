@@ -2,7 +2,7 @@
 
 Ever wanted to program your first Hartree-fock? The building block for most algorithm in Quantum Chemistry?
 
-Then this Github repo if for you. It is a jupyter notebook (**index.ipynb**) and a -docker image](https://hub.docker.com/r/beangoben/my_first_hartree_fock/) that will take you by the hand (mostly) on building your own Hartree-Fock.
+Then this Github repo if for you. It is a jupyter notebook (**index.ipynb**) and a [docker image](https://hub.docker.com/r/beangoben/my_first_hartree_fock/) that will take you by the hand (mostly) on building your own Hartree-Fock.
 
 ## How to use it on your computer (recommended)
 
